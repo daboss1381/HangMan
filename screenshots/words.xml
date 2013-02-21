@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hangman>
+    <Cat att="Myth">
+        <Phrase>Aphrodite</Phrase>
+        <Hint>Greek: The goddess of love, beauty and desire.;Daughter of Zeus.</Hint>
+
+        <Phrase>Apollo</Phrase>
+        <Hint>Greek: The god of music, healing, plague, the su,;prophecies, and poetry.</Hint>
+
+        <Phrase>Ares</Phrase>
+        <Hint>Greek: The god of war, bloodshed, violence, manly courage,;and civil order.</Hint>
+
+        <Phrase>Artemis</Phrase>
+        <Hint>Greek: Virgin goddess of the hunt, wilderness, animal,;young girls, childbirth and plague.</Hint>
+
+        <Phrase>Athena</Phrase>
+        <Hint>Greek: The goddess of wisdom, warfare, battle strategy,;heroic endeavour, handicrafts and reason.</Hint>
+
+        <Phrase>Demeter</Phrase>
+        <Hint>Greek: The goddess of agriculture, horticulture, grain and;harvest.</Hint>
+
+        <Phrase>Dionysus</Phrase>
+        <Hint>Greek: The god of wine, parties and festivals, madness,;chaos, drunkenness and ecstasy.</Hint>
+
+        <Phrase>Hades</Phrase>
+        <Hint>Greek: King of the Underworld and god of the dead and the;hidden wealth of the Earth.</Hint>
+
+        <Phrase>Hephaestus</Phrase>
+        <Hint>Greek: Crippled god of fire, metalworking, stonemasonry,;sculpture and volcanism.</Hint>
+
+        <Phrase>Hera</Phrase>
+        <Hint>Greek: The queen of the gods and goddess of marriage, women,;childbirth, heirs, kings and empires.</Hint>
+
+        <Phrase>Hermes</Phrase>
+        <Hint>Greek: The god of travel, messengers, trade, thievery, cunning;wiles and language.</Hint>
+
+        <Phrase>Hestia</Phrase>
+        <Hint>Greek: Virgin goddess of the hearth, home and cooking.</Hint>
+
+        <Phrase>Poseidon</Phrase>
+        <Hint>Greek: The god of the sea, rivers, floods, droughts, earthquakes,;and the creator;of horses.</Hint>
+
+        <Phrase>Zeus</Phrase>
+        <Hint>Greek: The king of the gods, the ruler of Mount Olympus and the;god of the sky.</Hint>
+
+        <Phrase>Hathor</Phrase>
+        <Hint>Egyptian: Goddess of Happiness.</Hint>
+
+        <Phrase>Bast</Phrase>
+        <Hint>Egyptian: The cat-headed Goddess of Fertility, Sensuality and Fire;Prevention.</Hint>
+
+        <Phrase>Thoth</Phrase>
+        <Hint>Egyptian: Well-known God with the head of an Ibis.</Hint>
+
+        <Phrase>Isis</Phrase>
+        <Hint>Egyptian: Goddess of Motherhood, Royalty and Family Commitment.</Hint>
+
+        <Phrase>Anubis</Phrase>
+        <Hint>Egyptian: God of the Dead and Lord of Mummy Wrappings.</Hint>
+
+        <Phrase>Ra</Phrase>
+        <Hint>Egyptian: The Eye of the Sun.</Hint>
+
+        <Phrase>Osiris</Phrase>
+        <Hint>Egyptian: Husband of Isis</Hint>
+
+        <Phrase>Shu</Phrase>
+        <Hint>Egyptian: Primeval God of Air, along with his twin sister TEFNUT.</Hint>
+
+        <Phrase>Set</Phrase>
+        <Hint>Egyption: God of Chaos.</Hint>	
+	
+        <Phrase>Jupiter</Phrase>
+        <Hint>Roman: King of Gods</Hint>
+
+        <Phrase>Juno</Phrase>
+        <Hint>Roman: Queen of the Gods</Hint>
+
+        <Phrase>Neptune</Phrase>
+        <Hint>Roman: God of the Sea</Hint>
+
+        <Phrase>Pluto</Phrase>
+        <Hint>Roman: God of Death</Hint>
+
+        <Phrase>Apollo</Phrase>
+        <Hint>Roman: God of the Sun</Hint>
+
+        <Phrase>Diana</Phrase>
+        <Hint>Roman: Goddess of the Moon</Hint>
+
+        <Phrase>Mars</Phrase>
+        <Hint>Roman: God of War</Hint>
+
+        <Phrase>Venus</Phrase>
+        <Hint>Roman: Goddess of Love</Hint>
+
+        <Phrase>Cupid</Phrase>
+        <Hint>Roman: God of Love</Hint>
+
+        <Phrase>Mercury</Phrase>
+        <Hint>Roman: Messenger of the Gods</Hint>
+
+        <Phrase>Minerva</Phrase>
+        <Hint>Roman: Goddess of Wisdom</Hint>
+
+        <Phrase>Ceres</Phrase>
+        <Hint>Roman: The Earth Goddess</Hint>
+
+        <Phrase>Proserpine</Phrase>
+        <Hint>Roman: Goddess of the Underworld</Hint>
+
+        <Phrase>Vulcan</Phrase>
+        <Hint>Roman: The Smith God</Hint>
+
+        <Phrase>Bacchus</Phrase>
+        <Hint>Roman: God of Wine</Hint>
+
+        <Phrase>Saturn</Phrase>
+        <Hint>Roman: God of Time</Hint>
+
+        <Phrase>Vesta</Phrase>
+        <Hint>Roman: Goddess of the Home</Hint>
+
+        <Phrase>Janus</Phrase>
+        <Hint>Roman: God of Doors</Hint>
+
+        <Phrase>Uranus</Phrase>
+        <Hint>Roman: God of the Sky and Father of Saturn</Hint>
+
+        <Phrase>Gaia</Phrase>
+        <Hint>Roman: Goddess of the Earth and Mother of Saturn</Hint>
+
+        <Phrase>Maia</Phrase>
+        <Hint>Roman: Goddess of Growth</Hint>
+
+        <Phrase>Flora</Phrase>
+        <Hint>Roman: Goddess of Flowers</Hint>
+
+        <Phrase>Plutus</Phrase>
+        <Hint>Roman: God of Wealth</Hint>
+
+        <Phrase>Cerberus</Phrase>
+        <Hint>Roman: Dog of the Underworld</Hint>
+
+        <Phrase>Gorgon</Phrase>
+        <Hint>Roman: Turns you to stone</Hint>
+    </Cat>
+    <Cat att="Movies">
+        <Phrase>The Shawshank Redemption</Phrase>
+        <Hint>Two imprisoned men bond over a number of years, finding solace and;eventual redemption through acts of common decency.</Hint>
+
+        <Phrase>The Dark Knight</Phrase>
+        <Hint>When Batman, Gordon and Harvey Dent launch an assault on the;mob, they let the clown out of the box, the Joker, bent on;turning Gotham on itself and bringing any heroes;down to his level.</Hint>
+
+        <Phrase>The Lord of the Rings The Return of the King</Phrase>
+        <Hint>Aragorn leads the World of Men against Sauron&apos;s army to draw the;dark lord&apos;s gaze from Frodo and Sam who are on the;doorstep of Mount Doom with the One Ring.</Hint>
+
+        <Phrase>The Lord of the Rings The Fellowship of the Ring</Phrase>
+        <Hint>An innocent hobbit of The Shire journeys with eight companions;to the fires of Mount Doom to destroy the One Ring and the;dark lord Sauron forever.</Hint>
+
+        <Phrase>The Matrix</Phrase>
+        <Hint>A computer hacker learns from mysterious rebels about the true;nature of his reality and his role in the war against;its controllers.</Hint>
+
+        <Phrase>Gladiator</Phrase>
+        <Hint>When a Roman general is betrayed and his family murdered by;an emperor&apos;s corrupt son, he comes to Rome as a;gladiator to seek revenge.</Hint>
+
+        <Phrase>The Lion King</Phrase>
+        <Hint>Tricked into thinking he killed his father, a guilt ridden lion cub;flees into exile and abandons his identity as the;future King.</Hint>
+
+        <Phrase>Indiana Jones and the Last Crusade</Phrase>
+        <Hint>When Dr. Henry Jones Sr. suddenly goes missing while pursuing;the Holy Grail, eminent archaeologist Indiana;Jones must follow in his father&apos;s footsteps and stop the Nazis.</Hint>
+
+        <Phrase>Batman Begins</Phrase>
+        <Hint>Bruce Wayne loses his philanthropic parents to a senseless crime,;and years later becomes the Batman to save;the crime-ridden Gotham City on the verge of destruction;by an ancient order.</Hint>
+	
+        <Phrase>The Godfather</Phrase>
+        <Hint>The aging patriarch of an organized crime dynasty transfers control of his;clandestine empire to his reluctant son.</Hint>
+
+        <Phrase>Inception</Phrase>
+        <Hint>In a world where technology exists to enter the human mind through;dream invasion.</Hint>
+
+        <Phrase>WALL E</Phrase>
+        <Hint>In the distant future, a small waste collecting robot inadvertently;embarks on a space journey that will ultimately decide the;fate of mankind.</Hint>
+
+        <Phrase>Braveheart</Phrase>
+        <Hint>William Wallace, a commoner, unites the 13th Century Scots in their;battle to overthrow English rule.</Hint>
+        
+        <Phrase>Pulp Fiction</Phrase>
+        <Hint>The lives of two mob hit men, a boxer, a gangster&apos;s wife, and a pair;of diner bandits intertwine in four tales of violence and;redemption.</Hint>
+	
+		<Phrase>The Exorcist</Phrase>
+		<Hint>When a girl is possessed by a mysterious entity, her mother seeks;the help of two priests to save her daughter.</Hint>
+		
+		<Phrase>District 9</Phrase>
+		<Hint>An extraterrestrial race forced to live in slum-like conditions on Earth;suddenly finds a kindred spirit in a government agent who is exposed;to their biotechnology. </Hint>
+		
+		<Phrase>Monsters Inc</Phrase>
+		<Hint>Monsters generate their city's power by scaring children, but they;are terribly afraid themselves of being contaminated by children.</Hint>
+		
+		<Phrase>Big Fish</Phrase>
+		<Hint>A son tries to learn more about his dying father by reliving;stories and myths he told about his life. </Hint>
+		
+		<Phrase>Jurassic Park</Phrase>
+		<Hint>During a preview tour, a theme park suffers a major power;breakdown that allows its cloned dinosaur exhibits to run amok. </Hint>
+		
+		<Phrase>King Kong</Phrase>
+		<Hint>A film crew goes to a tropical island for an exotic location;shoot and discovers a colossal giant gorilla who;takes a shine to their female blonde star. </Hint>
+		
+		<Phrase>Finding Nemo</Phrase>
+		<Hint>After his son is captured in the Great Barrier Reef and taken to;Sydney, a timid clownfish sets out on a journey to;bring him home. </Hint>
+		
+		<Phrase>How to Train Your Dragon</Phrase>
+		<Hint>A hapless young Viking who aspires to hunt dragons becomes the;unlikely friend of a young dragon himself, and learns there may be;more to the creatures than he assumed.</Hint>
+		
+		<Phrase>The Departed</Phrase>
+		<Hint>Two men from opposite sides of the law are undercover within the Massachusetts;State Police and the Irish mafia, but violence and bloodshed boil when;discoveries are made, and the moles are dispatched to find out their enemy's identities.</Hint>
+    </Cat>
+    <Cat att="Series">
+        <Phrase>Game of Thrones</Phrase>
+        <Hint>Seven noble families fight for control of the mythical land of;Westeros.</Hint>
+
+        <Phrase>Breaking Bad</Phrase>
+        <Hint>Informed he has terminal cancer, an underachieving;chemistry genius turned high school teacher uses his expertise to;secretly provide for his family by producing the;world&apos;s highest quality crystal meth.</Hint>
+
+        <Phrase>Arrested Development</Phrase>
+        <Hint>Level-headed son Michael Bluth takes over family;affairs after his father is imprisoned. But the rest of his spoiled,;dysfunctional family are making his job unbearable.</Hint>
+
+        <Phrase>Sherlock</Phrase>
+        <Hint>A modern update finds the famous sleuth and his;doctor partner solving crime in 21st century London.</Hint>
+
+        <Phrase>Dexter</Phrase>
+        <Hint>A likeable Miami police forensics expert moonlights;as a serial killer of criminals who he believes have escaped;justice.</Hint>
+
+        <Phrase>Avatar The Last Airbender</Phrase>
+        <Hint>In a war-torn world of elemental magic, a young boy reawakens;to undertake a dangerous mystic quest to fulfill;his destiny as the Avatar.</Hint>
+
+        <Phrase>The Legend of Korra</Phrase>
+        <Hint>Avatar Korra must defend the neutral Republic City from the;Equalists, a massive secret society with the purpose;of ridding the entire world of the ability to manipulate;the elements of nature.</Hint>
+
+        <Phrase>Death Note</Phrase>
+        <Hint>An intelligent high school student goes on a secret crusade to;eliminate criminals from the world after discovering;a notebook capable of killing anyone whose name is;written into it.</Hint>
+
+        <Phrase>Suits</Phrase>
+        <Hint>On the run from a drug deal gone bad, Mike Ross, a brilliant;college-dropout, finds himself a job working with Harvey;Specter, one of New York City&apos;s best lawyers.</Hint>
+
+        <Phrase>Castle</Phrase>
+        <Hint>After a serial killer imitates the plots of his novels, successful;mystery novelist Richard &quot;Rick&quot; Castle gets permission;from the Mayor of New York City to tag along with an;NYPD homicide investigation team for research purposes.</Hint>
+
+        <Phrase>Stargate SG1</Phrase>
+        <Hint>A secret military team, SG-1, is formed to explore the recently;discovered StarGates.</Hint>
+
+        <Phrase>Stargate Atlantis</Phrase>
+        <Hint>An international team of scientists and military personnel;discover a Stargate network in the Pegasus Galaxy and come;face-to-face with a new, powerful enemy,;The Wraith.</Hint>
+
+        <Phrase>Stargate Universe</Phrase>
+        <Hint>Trapped on an Ancient spaceship billions of light years from;home, a group of soldiers and civilians struggle to survive;and find their way back to Earth.</Hint>
+		
+        <Phrase>Supernatural</Phrase>
+        <Hint>Two brothers follow their father's footsteps as "hunters";fighting evil beings of many kinds including monsters, demons,;and gods that roam the earth. </Hint>
+    
+        <Phrase>Community</Phrase>
+        <Hint>A smarmy lawyer, whose education is deemed void by the bar,;is forced to attend a local community college with an extremely;eclectic staff and student body. </Hint>
+		
+        <Phrase>The Walking Dead</Phrase>
+        <Hint>Police officer Rick Grimes leads a group of survivors in a;world overrun by zombies. </Hint>
+    </Cat>
+    <Cat att="Cars">
+        <Phrase>Chevrolet Corvette</Phrase>
+        <Hint>American;First released in 1953;Named after a small military ship</Hint>
+
+        <Phrase>Chevrolet Camaro</Phrase>
+        <Hint>American;First released in 1967;Bumblebees' disguise in the transformers movies</Hint>
+		
+		<Phrase>Chevrolet Corvette String Ray Coupe</Phrase>
+		<Hint>American;Released in 1963;Split rear window. Produced for 20 years</Hint>
+
+		<Phrase>Ford GT40</Phrase>
+		<Hint>American;Built to compete with Ferrari.;Only American built to ever take Le Mans overall.</Hint>
+
+		<Phrase>Aston Martin DB5</Phrase>
+		<Hint>Bond made it famous in Goldfinger;Built from 1963-1965 and boasted a then-healthy 282 horsepower</Hint>
+
+		<Phrase>AC Shelby Cobra 427</Phrase>
+		<Hint>Did the quarter-mile in 13.2 seconds and handled like it was on rails.;Runs on a 520 bhp 427 V8 Ford engine.</Hint>
+
+		<Phrase>DeLorean DMC 12</Phrase>
+		<Hint>Stainless steel body, gullwing doors and a body flat enough to grill on.</Hint>
+
+		<Phrase>Jaguar E Type</Phrase>
+		<Hint>Burbling V12 power and ridiculously low slung body</Hint>
+
+		<Phrase>1967 Pontiac GTO</Phrase>
+		<Hint>Otherwise known as the “Judge”.;Split grille design and the monster 335 hp, 441 lb ft V8 engine,along with the optional Hurst shifter .</Hint>
+
+		<Phrase>Nissan Skyline GTR r34</Phrase>
+		<Hint>Its origins date back to 1989 with what was dubbed “Godzilla” by the automotive press.</Hint>
+
+		<Phrase>Rolls Royce Phantom</Phrase>
+		<Hint>The original British luxury car that started its run in 1925.</Hint>
+
+		<Phrase>McLaren F1</Phrase>
+		<Hint>In 1998, engineer Gordon Murray set the world on fire by setting a new production;car top speed record of 231 mph in this car. </Hint>
+
+		<Phrase>Bugatti Veyron</Phrase>
+		<Hint>Released in 2005, the 8-liter W16, quad turbo,1001 horsepower engine;launched the original to a top speed of 253 mph.</Hint>
+    </Cat>
+    <Cat att="Drinks">
+        <Phrase>Coffee</Phrase>
+        <Hint>Made from grounded beans.</Hint>
+		
+		<Phrase>Margarita</Phrase>
+		<Hint>Cocktail: Mixture of Lime Juice, Triple Sec and Tequila</Hint>
+
+		<Phrase>Mai Tai</Phrase>
+		<Hint>Cocktail: Mixture of Dark Rum, Orange Curacao, Lime Juice and Almond Syrup</Hint>
+
+		<Phrase>White Russian</Phrase>
+		<Hint>Cocktail: Mixture of Fresh Cream, Kahlua and Vodka</Hint>
+
+		<Phrase>Caipirinha</Phrase>
+		<Hint>Cocktail: Five lime segments in Cachca</Hint>
+
+		<Phrase>Screwdriver</Phrase>
+		<Hint>Coctail: Mixture of Orange Juice and Vodka</Hint>
+
+		<Phrase>Bloody Mary</Phrase>
+		<Hint>Cocktail: Mixture of Tomato Juice and Vodka</Hint>
+
+		<Phrase>Whiskey Sour</Phrase>
+		<Hint>Cocktail: Mixture of Bourbon and Lime Juice</Hint>
+
+		<Phrase>Old Fashioned</Phrase>
+		<Hint>Cocktail: Mixture of Bourbon and Water</Hint>
+
+		<Phrase>Manhattan</Phrase>
+		<Hint>Cocktail: Mixture of Italian Sweet Vermouth and Bourbon</Hint>
+
+		<Phrase>Martini</Phrase>
+		<Hint>Cocktail: Mixture of French Dry Vermouth and Gin</Hint>
+
+		<Phrase>Daiquiri</Phrase>
+		<Hint>Cocktail: Mixture of Lime Juice and White Rum</Hint>
+
+		<Phrase>Cosmopolitan</Phrase>
+		<Hint>Cocktail: Mixture of Lime Juice, Pink Grapefruit Juice,;Cranberry Juice, Cointreau and Vodka</Hint>
+
+		<Phrase>Singapore Sling</Phrase>
+		<Hint>Cocktail: Mixture of Soda, Cherry Brandy, Lemon Juice, Sloe Gin and Gin</Hint>
+
+		<Phrase>Mojito</Phrase>
+		<Hint>Cocktail: Mixture of Lime Juice and Rum with mint leaves</Hint>
+
+		<Phrase>Mint Julep</Phrase>
+		<Hint>Cocktail: Mixture of Water and Bourbon with mint leaves</Hint>
+
+		<Phrase>Tom Collins</Phrase>
+		<Hint>Cocktail: Mixture of Soda, Gin and Lemon Juice</Hint>
+
+		<Phrase>Pina Colada</Phrase>
+		<Hint>Cocktail: Mixture of Pineapple Juice, White Rum and Coconut Cream</Hint>
+
+		<Phrase>Sea Breeze</Phrase>
+		<Hint>Cocktail: Mixture of Grapefruit Juice, Cranberry Juice and Vodka</Hint>
+
+		<Phrase>Cuba Libre</Phrase>
+		<Hint>Cocktail: Mixture of Cola, Lime Juice and White Rum</Hint>
+
+		<Phrase>Bellini</Phrase>
+		<Hint>Cocktail: Mixture of Peach Puree and Prosecco</Hint>
+    </Cat>
+    <Cat att="Sport">
+        <Phrase>Squash</Phrase>
+        <Hint>2 Player game, played by hitting a small rubber ball against a wall</Hint>
+		
+		<Phrase>Rugby</Phrase>
+		<Hint>Team sport. 15 players in a team. Played with a oval shaped ball</Hint>
+
+		<Phrase>Soccer</Phrase>
+		<Hint>Team sport. 11 players on a team. Player need to kick a rond ball into a net to score.</Hint>
+
+		<Phrase>Cricket</Phrase>
+		<Hint>Team sport. Bat-and-ball game played between two teams of 11 players on a field,;at the centre of which is a rectangular 22-yard long pitch.</Hint>
+    </Cat>
+    <Cat att="Games">
+        <Phrase>Monopoly</Phrase>
+        <Hint>Board Game: Making money and managing properties.</Hint>
+	
+        <Phrase>Twister</Phrase>
+        <Hint>Physical Game: Played on a large plastic mat;that is spread on the floor or ground.;The mat has four rows of large colored circles;on it with a different color in each row</Hint>
+		
+		<Phrase>Battleship</Phrase>
+		<Hint>Board Game: You must guess coordinates and sink your opponent's vessels</Hint>
+		
+		<Phrase>Jenga</Phrase>
+		<Hint>Players take turns to remove a block from a tower and balance it on top,;creating a taller and increasingly unstable structure as the game progresses.</Hint>
+		
+		<Phrase>Beer Pong</Phrase>
+		<Hint>Drinking game in which players throw a ping pong ball across a table with;the intent of landing the ball in a cup of beer on the other end.</Hint>
+		
+		<Phrase>Hungry Hungry Hippos</Phrase>
+		<Hint>The purpose of the game is for each player to collect as many marbles as;possible with his or her 'hippo' (a toy hippo model).</Hint>
+		
+		<Phrase>Snakes and Ladders</Phrase>
+		<Hint>A number of "ladders" and "snakes" (or "chutes") are pictured on the board,;each connecting two specific board squares.</Hint>
+		
+		<Phrase>Chutes and Ladders</Phrase>
+		<Hint>A number of "ladders" and "snakes" (or "chutes") are pictured on the board,;each connecting two specific board squares.</Hint>
+		
+		<Phrase>Backgammon</Phrase>
+		<Hint>The playing pieces are moved according to the roll of dice, and players;win by removing all of their pieces from the board. </Hint>
+		
+		<Phrase>Game of the Generals</Phrase>
+		<Hint>The game simulates armies at war trying to outflank and outmaneuver each other.;As in actual warfare, the game allows only one side's plan to succeed.</Hint>
+		
+		<Phrase>Mastermind</Phrase>
+		<Hint>One player becomes the codemaker, the other the codebreaker. The codemaker chooses a;pattern of four code pegs. Duplicates are allowed, so the player could even choose four;code pegs of the same color. The chosen pattern is placed in the four holes covered by;the shield, visible to the codemaker but not to the codebreaker.</Hint>
+		
+		<Phrase>ClueDo</Phrase>
+		<Hint>The object of the game is for players to strategically move around the game board (a mansion),;in the guise of one of the game's six characters, collecting clues from which to deduce which;suspect murdered the game's perpetual victim, Mr. X (Mr. Boddy in North American versions),;and with which weapon and in what room.</Hint>		
+    </Cat>
+    <Cat att="Actors">
+        <Phrase>Richard Dean Anderson</Phrase>
+        <Hint>Known for his role as MacGyver and in Stargate</Hint>
+        
+        <Phrase>Jared Padalecki</Phrase>
+        <Hint>Known for his role in Supernatural as Sam Winchester</Hint>
+    
+        <Phrase>Jensen Ackles</Phrase>
+        <Hint>Known for his role in Supernatural as Dean Winchester</Hint>
+		
+		<Phrase>Mike Myers</Phrase>
+		<Hint>Known for his roles in Auston Powers, Wayne's World and Shrek</Hint>
+		
+		<Phrase>Molly Quinn</Phrase>
+		<Hint>Known for her role in Castle as Alexis</Hint>
+		
+		<Phrase>Nathan Fillion</Phrase>
+		<Hint>Known for his role as Richard Castle in Castle</Hint>
+			
+		<Phrases>Michael Hall</Phrases>
+		<Hint>Known for his role in Dexter</Hint>
+			
+		<Phrase>Emily Deschanel</Phrase>
+		<Hint>Known for her role as Dr. Temperance in Bones</Hint>
+			
+		<Phrase>David Boreanaz</Phrase>
+		<Hint>Known for his role as Special Agent Seeley Booth in Bones</Hint>
+    </Cat>
+    <Cat att="People">
+        <Phrase>Adolf Hitler</Phrase>
+        <Hint>Famous for being fascist Dictator of Germany ;Born - 20th April 1889, Braunau am Inn, Austria;Died - 30th April 1945, Berlin, Germany committed suicide</Hint>
+
+        <Phrase>Anne Frank</Phrase>
+        <Hint>Famous for writing a diary about her holocaust experience;Born - 12th June 1929;Died - March 1945 in Bergen-Belsen from typhus</Hint>
+
+        <Phrase>Christopher Columbus</Phrase>
+        <Hint>Famous for being an explorer and first European to set foot in the Americas;Born - c. 1451 exact date unknown;Died - 20th May 1506, Valladolid, Castile</Hint>
+
+        <Phrase>Edward the Confessor</Phrase>
+        <Hint>Famous for being King of England 1042-1066;Born - c1003 exact date unknown;Died - 5th January 1066</Hint>
+
+        <Phrase>Galileo Galilei</Phrase>
+        <Hint>Famous for being influential in the development of Science, Astronomy and Mathematics;Born - 15th February 1564, Pisa, Italy;Died - 8th January 1642</Hint>
+
+        <Phrase>Ivan the Terrible</Phrase>
+        <Hint>Famous for being the first Tsar of Russia;Born - 25th August 1530 - Kolomenskoye, nr Moscow, Russia;Died - 18th March 1584</Hint>
+
+        <Phrase>Julius Caesar</Phrase>
+        <Hint>Famous for being Roman Emperor;Born - 13th July 100BC;Died - 15th March AD 44 assassinated</Hint>
+
+        <Phrase>Napoleon Bonaparte</Phrase>
+        <Hint>Famous for being a Emperor of France;Born - 15th August 1769,  Ajaccio, Corsica;Died - 5th May 1821 St Helena aged 51 probably from stomach cancer</Hint>
+
+        <Phrase>Nelson Mandela</Phrase>
+        <Hint>Famous for being leader of the ANC, President of South Africa;Born - 18th July 1918, Mvezo, South Africa</Hint>
+
+        <Phrase>Winston Churchill</Phrase>
+        <Hint>Famous for being British Prime Minister and World War Two war leader;Born - 30th November 1874, Blenheim, Oxfordshire;Died - 24th January 1965, London</Hint>
+
+		<Phrase>Abraham Lincoln</Phrase>
+		<Hint>In his famous Gettysburg speech, he inspired the nation with his noble;words and helped to bring about the abolishment;of slavery.</Hint>
+
+		<Phrase>Benjamin Franklin</Phrase>
+		<Hint>Great polymath and promoter of American ideals at home and in the US.;A practical man of great dynamism and good character.</Hint>
+
+		<Phrase>Albert Einstein</Phrase>
+		<Hint>His theories of relativity were a very significant scientific breakthrough.;As well as being a genius scientist, he was also a champion;of human rights and campaigned for a more peaceful world.</Hint>
+
+		<Phrase>Thomas Jefferson</Phrase>
+		<Hint>One of America's founding fathers, he helped draft the Declaration of Independence;and foster a belief in human rights. Amongst other achievements,;he passed one of the first bills on religious;tolerance in his state of Virginia.</Hint>
+
+		<Phrase>Martin Luther King</Phrase>
+		<Hint>Inspiring leader of the non-violent civil rights movement.;Inspired millions of people black and white;to aspire for a more equal society.</Hint>
+
+		<Phrase>William Shakespeare</Phrase>
+		<Hint>His plays and poetry captured the richness and diversity;of human existence in the most powerful and poetic way.</Hint>
+
+		<Phrase>Leonardo da Vinci</Phrase>
+		<Hint>He helped make great advances in anatomy, astronomy,;physics, science and others. He also painted the most;iconic picture in history - The Mona Lisa.</Hint>
+
+		<Phrase>Muhammad Ali</Phrase>
+		<Hint>Champion boxer and great character.;Refused to fight in Vietnam war and became a champion of;civil rights and African interests.</Hint>
+
+		<Phrase>Mahatma Gandhi</Phrase>
+		<Hint>Principle figurehead of the Indian independence movement.;Taught a philosophy of non-violence and peaceful protest.</Hint>
+
+		<Phrase>Confucius</Phrase>
+		<Hint>Influential Chinese philosopher who laid ground work for;much of Chinese philosophy and society.</Hint>
+
+		<Phrase>Louis Pasteur</Phrase>
+		<Hint>French scientist who found many important improvements;in medical science, e.g. vaccination for Rabies;and a safe way to pasteurise milk.</Hint>
+
+		<Phrase>Charles Darwin</Phrase>
+		<Hint>Published his Origin of Species detailing a belief;in evolution at a time when such a decision was;very controversial.</Hint>
+
+		<Phrase>Barack Obama</Phrase>
+		<Hint>America's first black president.;Offered a positive message of hope to America and world.</Hint>
+
+		<Phrase>Martin Luther</Phrase>
+		<Hint>He challenged the excesses of the;Catholic church leading to the protestant movement;and forcing the Catholic Church to reinvigorate itself.</Hint>
+		
+		<Phrase>Sir Isaac Newton</Phrase>
+		<Hint>One of the greatest scientists of all time.;He led the foundation of modern physics with his;development of theories on gravity and mechanics</Hint>
+
+		<Phrase>John Lennon</Phrase>
+		<Hint>Iconic singer song writer. Member of the Beatles.</Hint>
+
+		<Phrase>Desmond Tutu</Phrase>
+		<Hint>South African anti-apartheid campaigner.;Sought to heal wounds after end of apartheid;through Truth and Reconcilliation committee.</Hint>
+		
+		<Phrase>Beethoven</Phrase>
+		<Hint>Great Classical Composer</Hint>
+    </Cat>
+</hangman>
